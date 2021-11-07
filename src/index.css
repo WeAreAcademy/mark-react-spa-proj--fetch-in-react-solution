@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.dogImage {
+  width: 200px;
+  border-radius: 20%;
+  margin: 20px;
+  box-shadow: 5px 5px 15px 5px #606060;
+}
